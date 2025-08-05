@@ -1,0 +1,5 @@
+--main Main
+--library kotoba
+--interp
+--define analyzer-optimize
+--class-path source

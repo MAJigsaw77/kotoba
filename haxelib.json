@@ -1,0 +1,22 @@
+{
+	"name": "kotoba",
+	"url": "https://github.com/MAJigsaw77/kotoba",
+	"license": "MIT",
+	"tags": [
+		"i18n",
+		"localization",
+		"translation",
+		"language",
+		"xml",
+		"haxe",
+		"toolkit",
+		"utility"
+	],
+	"description": "A lightweight Haxe library for XML-based language configuration and translation management.",
+	"version": "1.0.0",
+	"releasenote": "First release.",
+	"contributors": [
+		"MAJigsaw77"
+	],
+	"classPath": "source"
+}

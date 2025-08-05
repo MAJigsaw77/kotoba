@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kotoba-config>
+	<file id="example_file" />
+
+	<language name="en-US" />
+	<language name="ro-RO" />
+</kotoba-config>
